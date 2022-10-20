@@ -1,5 +1,5 @@
 # awesome-multimodal-dialogue
-Paper, dataset and code list for multimodal dialogue.
+Paper, dataset and code list for open-domain multimodal dialogue.
 
 W.I.P
 
@@ -9,7 +9,7 @@ Feel free to open issues and make PRs!
 ## Datasets
 - Visual Dialog, [[CVPR 2017]](https://arxiv.org/abs/1611.08669) [[data]](https://visualdialog.org/) [[code]](https://github.com/batra-mlp-lab/visdial)
 - Image-Grounded Conversations: Multimodal Context for Natural Question and Response Generation, [[IJCNLP 2017]]((https://aclanthology.org/I17-1047.pdf)) [[data]](https://www.microsoft.com/en-us/download/details.aspx?id=55324&751be11f-ede8)
-- Towards building large scale multimodal domain-aware conversation systems, [[arXiv 2017]](https://arxiv.org/pdf/1704.00200.pdf) [[AAAI 2018]](https://dl.acm.org/doi/pdf/10.5555/3504035.3504121) [[data]](https://amritasaha1812.github.io/MMD/download/) [[code]](https://github.com/amritasaha1812/MMD_Code)
+<!-- - Towards building large scale multimodal domain-aware conversation systems, [[arXiv 2017]](https://arxiv.org/pdf/1704.00200.pdf) [[AAAI 2018]](https://dl.acm.org/doi/pdf/10.5555/3504035.3504121) [[data]](https://amritasaha1812.github.io/MMD/download/) [[code]](https://github.com/amritasaha1812/MMD_Code) -->
 - MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations, [[arXiv 2018]](https://arxiv.org/pdf/1810.02508v4.pdf) [[ACL 2019]](https://aclanthology.org/P19-1050.pdf) [[data]](https://affective-meld.github.io/) [[code]](https://github.com/declare-lab/MELD/)
 - Image-Chat: Engaging Grounded Conversations, [[arXiv 2018]](https://arxiv.org/pdf/1811.00945.pdf) [[ACL 2020]](https://aclanthology.org/2020.acl-main.219.pdf) [[data & code]](https://parl.ai/projects/image_chat/)
 - OpenViDial: A Large-Scale, Open-Domain Dialogue Dataset with Visual Context, [[arXiv 2020]]((https://arxiv.org/pdf/2012.15015.pdf)) [[data & code]](https://github.com/ShannonAI/OpenViDial)
