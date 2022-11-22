@@ -20,3 +20,4 @@ Feel free to open issues and make PRs!
 - MMConv: An Environment for Multimodal Conversational Search across Multiple Domains, [[SIGIR 2021]](https://dl.acm.org/doi/pdf/10.1145/3404835.3462970) [[data & code]](https://github.com/liziliao/MMConv)
 - MSCTD: A Multimodal Sentiment Chat Translation Dataset, [[ACL 2022]](https://aclanthology.org/2022.acl-long.186.pdf) [[data & code]](https://github.com/XL2248/MSCTD)
 - M3ED: Multi-modal Multi-scene Multi-label Emotional Dialogue Database, [[ACL 2022]](https://aclanthology.org/2022.acl-long.391.pdf) [[data & code]](https://github.com/aim3-ruc/rucm3ed)
+- MMDialog: A Large-scale Multi-turn Dialogue Dataset Towards Multi-modal Open-domain Conversation, [[arXiv 2022]](https://arxiv.org/pdf/2211.05719v1.pdf) [[data & code]](https://github.com/victorsungo/MMDialog)
