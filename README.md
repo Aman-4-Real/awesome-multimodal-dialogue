@@ -1,5 +1,5 @@
 # awesome-multimodal-dialogue
-Paper, dataset and code list for open-domain multimodal dialogue.
+List of **Papers**, **Datasets** and **Code Repositories** for open-domain multimodal dialogue.
 
 W.I.P
 
@@ -18,6 +18,8 @@ Feel free to open issues and make PRs!
 - Towards Expressive Communication with Internet Memes: A New Multimodal Conversation Dataset and Benchmark, [[arXiv 2021]](https://arxiv.org/pdf/2109.01839.pdf) [[data & code]](https://github.com/lizekang/DSTC10-MOD)
 - PhotoChat: A Human-Human Dialogue Dataset with Photo Sharing Behavior for Joint Image-Text Modeling, [[ACL 2021]](https://aclanthology.org/2021.acl-long.479.pdf) [[data]](https://github.com/google-research/google-research/tree/master/multimodalchat/)
 - MMConv: An Environment for Multimodal Conversational Search across Multiple Domains, [[SIGIR 2021]](https://dl.acm.org/doi/pdf/10.1145/3404835.3462970) [[data & code]](https://github.com/liziliao/MMConv)
+- Constructing Multi-Modal Dialogue Dataset by Replacing Text with Semantically Relevant Images, [[ACL 2021]](https://aclanthology.org/2021.acl-short.113/) [[arXiv 2021]](https://arxiv.org/abs/2107.08685) [[data & code]](https://github.com/shh1574/multi-modal-dialogue-dataset)
 - MSCTD: A Multimodal Sentiment Chat Translation Dataset, [[ACL 2022]](https://aclanthology.org/2022.acl-long.186.pdf) [[data & code]](https://github.com/XL2248/MSCTD)
 - M3ED: Multi-modal Multi-scene Multi-label Emotional Dialogue Database, [[ACL 2022]](https://aclanthology.org/2022.acl-long.391.pdf) [[data & code]](https://github.com/aim3-ruc/rucm3ed)
 - MMDialog: A Large-scale Multi-turn Dialogue Dataset Towards Multi-modal Open-domain Conversation, [[arXiv 2022]](https://arxiv.org/pdf/2211.05719v1.pdf) [[data & code]](https://github.com/victorsungo/MMDialog)
+- DialogCC: Large-scale Multi-Modal Dialogue Dataset, [[arXiv 2022]](https://arxiv.org/pdf/2212.04119.pdf) [[data & code]](https://github.com/passing2961/DialogCC)
