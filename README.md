@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 
-List of **Papers**, **Datasets** and **Code Repositories** for open-domain multimodal dialogue. This repo contains a majority of research works in the multimodal dialogue (M.M.D) field, but it still may not encompass all the noteworthy works (especially those in 2023 and related to LLMs, which will be updated later). 
+List of **Papers**, **Datasets** and **Code Repositories** for open-domain multimodal dialogue. This repo contains a majority of research works in the multimodal dialogue (M.M.D) field, but it still may not encompass all the noteworthy works (especially those in 2023 and related to LLMs). 
 
 > This repo is under W.I.P. Please feel free to open issues and make PRs!
 
